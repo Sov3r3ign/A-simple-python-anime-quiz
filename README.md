@@ -1,2 +1,2 @@
-# A simple python anime quiz
+# A simple anime quiz using python
  
